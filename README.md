@@ -1,2 +1,2 @@
 # Pycharm_data_exploration
-##The purpose of this project is to explore a data set using PyCharmEdu
+<h1>The purpose of this project is to explore a data set using PyCharmEdu</h1>
